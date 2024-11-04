@@ -1,0 +1,14 @@
+.join{
+    color:black;
+background-color: white;
+border-radius: 20px;
+padding:10px;
+margin:auto;
+}
+.join:hover{
+    color:black;
+    background-color: yellow;
+}
+Nav.Link:hover {
+color:yellow;
+}

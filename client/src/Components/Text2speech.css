@@ -1,0 +1,7 @@
+.text-to-speech-container:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+.text-to-speech-button:hover {
+  background-color: #45a049;
+}
